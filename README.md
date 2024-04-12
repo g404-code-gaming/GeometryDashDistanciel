@@ -10,3 +10,5 @@ Que tu sois déjà un créateur de jeux ou nouveau dans cet univers fascinant, c
 
 [Lien pour tester le jeu](https://gd.games/instant-builds/0b62dd09-e974-4668-84b1-0a020bde5033)
 
+[C'est parti !](https://github.com/g404-code-gaming/GeometryDashDistanciel/blob/main/Création-Du-Jeu/1.Déplacement%20du%20personnage%20%2B%20animation.md)
+
